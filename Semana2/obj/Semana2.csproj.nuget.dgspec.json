@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Karen AG\\Documents\\KarenAg\\Semana2\\Semana2.csproj": {}
+    "C:\\Users\\MIGUEL MIXER AUDIO C\\Documents\\Karen-Aguinda-3-Nivel-1\\Semana2\\Semana2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Karen AG\\Documents\\KarenAg\\Semana2\\Semana2.csproj": {
+    "C:\\Users\\MIGUEL MIXER AUDIO C\\Documents\\Karen-Aguinda-3-Nivel-1\\Semana2\\Semana2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karen AG\\Documents\\KarenAg\\Semana2\\Semana2.csproj",
+        "projectUniqueName": "C:\\Users\\MIGUEL MIXER AUDIO C\\Documents\\Karen-Aguinda-3-Nivel-1\\Semana2\\Semana2.csproj",
         "projectName": "Semana2",
-        "projectPath": "C:\\Users\\Karen AG\\Documents\\KarenAg\\Semana2\\Semana2.csproj",
-        "packagesPath": "C:\\Users\\Karen AG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karen AG\\Documents\\KarenAg\\Semana2\\obj\\",
+        "projectPath": "C:\\Users\\MIGUEL MIXER AUDIO C\\Documents\\Karen-Aguinda-3-Nivel-1\\Semana2\\Semana2.csproj",
+        "packagesPath": "C:\\Users\\MIGUEL MIXER AUDIO C\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MIGUEL MIXER AUDIO C\\Documents\\Karen-Aguinda-3-Nivel-1\\Semana2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Karen AG\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\MIGUEL MIXER AUDIO C\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

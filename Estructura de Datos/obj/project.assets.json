@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Karen AG\\.nuget\\packages\\": {}
+    "C:\\Users\\MIGUEL MIXER AUDIO C\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Karen AG\\Documents\\KarenAg\\Estructura de Datos\\Estructura de Datos.csproj",
+      "projectUniqueName": "C:\\Users\\MIGUEL MIXER AUDIO C\\Documents\\Karen-Aguinda-3-Nivel-1\\Estructura de Datos\\Estructura de Datos.csproj",
       "projectName": "Estructura de Datos",
-      "projectPath": "C:\\Users\\Karen AG\\Documents\\KarenAg\\Estructura de Datos\\Estructura de Datos.csproj",
-      "packagesPath": "C:\\Users\\Karen AG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Karen AG\\Documents\\KarenAg\\Estructura de Datos\\obj\\",
+      "projectPath": "C:\\Users\\MIGUEL MIXER AUDIO C\\Documents\\Karen-Aguinda-3-Nivel-1\\Estructura de Datos\\Estructura de Datos.csproj",
+      "packagesPath": "C:\\Users\\MIGUEL MIXER AUDIO C\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MIGUEL MIXER AUDIO C\\Documents\\Karen-Aguinda-3-Nivel-1\\Estructura de Datos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Karen AG\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\MIGUEL MIXER AUDIO C\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
